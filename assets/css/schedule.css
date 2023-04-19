@@ -1,0 +1,55 @@
+
+.title {
+    margin-top: 30px;
+    left: 600px;
+    line-height: 160%;
+    font-weight: 800;
+    text-align: center;
+  }
+  
+  .device-container {
+    /* width: 850px;
+    max-width: 100%; */
+    padding: 0 180px;
+    margin-top: 50px;
+    display: flex;
+    color: #ffffff;
+    height: 100%;
+  }
+  
+  .device{
+  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  }
+  
+  
+  
+  .device-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px !important;
+    height: 180px;
+    border-radius: 20px;
+    background-color: #00337c;
+  }
+  
+  .Den {
+    border-radius: 40px;
+    background-color: #fff6c8;
+    margin-top: 20px;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+  }
+  
+  .dev-text
+  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  

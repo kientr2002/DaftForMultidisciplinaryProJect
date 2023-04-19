@@ -1,0 +1,16 @@
+{
+    "name":"da/farm",
+    "type": "project",
+    "description": "lap trinh web php",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "require": {
+        "illuminate/database": "*",
+        "cboden/ratchet": "v0.4",
+        "php-mqtt/client": "^1.8",
+        "bluerhinos/phpmqtt": "^1.0"
+    }
+}
